@@ -1,0 +1,29 @@
+{
+    "id": 6,
+    "name": "Zarbon",
+    "ki": "20.000",
+    "maxKi": "30.000",
+    "race": "Frieza Race",
+    "gender": "Male",
+    "description": "Zarbon es uno de los secuaces de Freezer y un luchador poderoso.",
+    "image": "https://dragonball-api.com/characters/zarbon.webp",
+    "affiliation": "Army of Frieza",
+    "deletedAt": null,
+    "originPlanet": {
+        "id": 4,
+        "name": "Freezer No. 79",
+        "isDestroyed": true,
+        "description": "Planeta artificial utilizado por Freezer como base de operaciones y centro de clonación.",
+        "image": "https://dragonball-api.com/planetas/PlanetaFreezer.webp",
+        "deletedAt": null
+    },
+    "transformations": [
+        {
+            "id": 18,
+            "name": "Zarbon Monster",
+            "image": "https://dragonball-api.com/transformaciones/zarbon monster.webp",
+            "ki": "30.000",
+            "deletedAt": null
+        }
+    ]
+}
